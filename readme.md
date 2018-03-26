@@ -1,7 +1,7 @@
 # ofxLemon
 
 
-This addon packages the [LEMON](http://lemon.cs.elte.hu/trac/lemon) graph for openFrameworks. 
+This addon packages the [LEMON](http://lemon.cs.elte.hu/trac/lemon) graph library for openFrameworks. 
 
 It contains:
 
